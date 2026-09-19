@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "당근마켓타이",
+    "timestamp": "2026-09-19T15:04:20.990Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "당근마켓 타이",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "동네 인증",
+      "안전 결제",
+      "실시간 채팅"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "태국 현지인들과 함께하는 따뜻한 중고 거래."
+  }
+}
